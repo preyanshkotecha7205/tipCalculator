@@ -1,4 +1,4 @@
 # tipCalculator
 tip calculator
 
-<img src = "http://recordit.co/kYWb1bz3Dx">
+<img src = "http://g.recordit.co/kYWb1bz3Dx.gif">
